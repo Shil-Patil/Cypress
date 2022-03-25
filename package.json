@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "test" : "."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.1",
+    "mochawesome": "^7.0.1"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "luxon": "^2.1.1"
+  }
+}

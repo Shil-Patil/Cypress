@@ -1,0 +1,11 @@
+
+{
+  "Action" : "GetBrands",
+  "api_key" : "aac30a14386048f17fce175468083657006130bb",
+  "SC_URL": "https://sellercenter-api-staging.falabella.com",
+  "date" : "2021-12-09T08:26:54-03:00",
+  "samp_qsp" : "Action=GetBrands&Format=XML&Timestamp=2021-12-09T06%3A55%3A20-03%3A00&UserID=ext_spatil%40falabella.cl&Version=1.0",
+  "format" : "XML",
+  "sc_uname" : "ext_spatil@falabella.cl",
+  "version" : "1.0"
+}
